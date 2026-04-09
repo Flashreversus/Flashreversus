@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Flashreversus
-- 👀 I’m interested in : downlond files that interest me
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he
-- ⚡ Fun fact: ...
+ 👋 Hi, I’m @Flashreversus
+    
 
-<!---
-Flashreversus/Flashreversus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like cyberSecurit and I learning Python and JS, I like osint too, But I wanna be nuclear physical. 
+
+I'm 17 years old 
+my name is Antonio Henrique 
+
+
+
